@@ -1,8 +1,6 @@
-# iOS Technical Take-Home 
 
-This document describes the assignment to be completed by candidates interviewing for an iOS position at [Shape](https://shape.dk).
 
-👀 **Check out [our profile](https://github.com/shape-interviews) to better understand our technical interview process and the criteria we use to evaluate our candidates.**
+
 
 ## 🎯 Task
 
@@ -39,9 +37,4 @@ We expect your app to have three screens with following features:
 - Your app should be written in Swift.
 - We encourage you to use UIKit, which is what we use in most of our projects at Shape.
 
-## 💻 Practicalities
 
-- We are not expecting you to spend more than 1 day (or 8 hours) on this task, but this is not a strict limitation. Feel free to exceed that time, if you feel like it.
-- Rest assured that we are equally happy to evaluate an incomplete solution. We will only have less material to review, in such instance.
-- Once your task is ready, please push it to this repository.
-- Be prepared to the possibility to showcase your solution during a technical interview. In that case, you would be asked to run the app and show your solution from the user perspective, as well as to present the codebase, highlighting the most compelling parts of the solution, before answering ad-hoc questions concerning your app.
